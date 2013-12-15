@@ -1,6 +1,6 @@
 <?php 
 $impfile = "mageorders.txt";
-// $impfile = "mageorders.html";
+// $impfile = "mageorders.html"; 
 unlink($impfile);
 ini_set("error_reporting",E_ALL);
 ini_set("display_errors",true);
